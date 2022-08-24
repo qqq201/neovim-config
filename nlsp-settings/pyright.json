@@ -1,0 +1,5 @@
+{
+    "python.venvPath": "$HOME/.virtualenvs",
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.useLibraryCodeForTypes": true
+}
